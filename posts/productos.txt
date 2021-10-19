@@ -2,8 +2,6 @@ Nombre producto: ConsolaNintendoSwitchNeon32GB-Versión2Precio:
 $334.990
 Nombre producto: SonyPlayStation4Ps41TBStandardcolorjetblackPrecio: 
 $318.990
-Nombre producto: ConsolaNintendoSwitchNeonBatExtendidaMulticolorPrecio: 
-$299.990
 Nombre producto: SamsungGalaxyZflip38GB256GBPrecio: 
 $909.990
 Nombre producto: MonitorGamerMsiOptixG271FreesyncIps144hzFhd1ms27Precio: 
@@ -11,6 +9,8 @@ $399.990
 Nombre producto: AORUS15PXCi7-10870H/RTX™3070P8GB/SSD512GB/RAM16GB/GigabytePrecio: 
 $2.999.990
 Nombre producto: SonyPlayStation4Ps4500GBColorestándarnegroPrecio: 
+$299.990
+Nombre producto: ConsolaNintendoSwitchNeonBatExtendidaMulticolorPrecio: 
 $299.990
 Nombre producto: NotebookGamerHPPavilionIntelCorei5,8GB,W10,256GBSSD,GTXNvidia16504GBde15.6"FHDPrecio: 
 $739.990
@@ -24,26 +24,18 @@ Nombre producto: SonyPlayStation4Ps41TBEdiciónLimitadaBlancoPrecio:
 $328.990
 Nombre producto: GlobalVersionASUSROGPhone3128GBNFC64MP5GSmartphone-NegroPrecio: 
 $429.990
-Nombre producto: TufGamingF15Fx506Lh-Hn155TIntelCoreI78GbRam512GbSsdNvidiaGeforceGtx165015.6"AsusPrecio: 
-$989.990
 Nombre producto: ConsolaXboxSeriesXPrecio: 
 $779.990
+Nombre producto: TufGamingF15Fx506Lh-Hn155TIntelCoreI78GbRam512GbSsdNvidiaGeforceGtx165015.6"AsusPrecio: 
+$989.990
 Nombre producto: Consolaretrodejuegosde8bits660Juegos-estilosuperNESPrecio: 
 $16.990
-Nombre producto: MonitorGamer27"VX2757-MHDFullHD,2msGTG,AMDFreeSync,VGA,HDMI,DPViewsonicPrecio: 
-$299.990
 Nombre producto: NotebookGamerHPPav.15-ec1024laR7-4800H8GB512GBW10HPrecio: 
 $899.990
 Nombre producto: AsusRogPhone512GB/128GBPrecio: 
 $674.990
-Nombre producto: SonyPlayStation4Ps4Slim500GBStandardcolorjetblackPrecio: 
-$335.990
-Nombre producto: SonyPlayStation4Ps42TBControlDualSenseEdiciónLimitadaPrecio: 
-$389.990
 Nombre producto: AudífonosGamerOnikumaK9OrejadeGatoCancelaciónDeRuido-RosaPrecio: 
 $21.990
-Nombre producto: DualshockGamingRemoteControllerConsoleJoystickforPlaystationGamepadforSonyPS4GameAccessoryPrecio: 
-$18.990
 Nombre producto: MiniConsolaSUPPortatilRetro400JuegosConControlRemotoPrecio: 
 $11.900
 Nombre producto: RazerViperMiniMouseambidiestroparaJuegos8500DPIPAW335961gRGBPrecio: 
@@ -54,67 +46,75 @@ Nombre producto: RazerBasiliskXHyperspeedWirelessGamingMouse16000DPIDPIPrecio:
 $38.990
 Nombre producto: TecladoMouseGamerSetONIKUMACombinación3en1-RosaPrecio: 
 $45.990
-Nombre producto: ConsolaMiniClassicEditionSNES21Precio: 
-$58.900
+Nombre producto: MarioKartLiveHomeCircuit-MarioSet.Precio: 
+$86.990
 Nombre producto: BluetoothMandoinalámbricoControladorparaNSSwitchJoyConPrecio: 
 $27.900
 Nombre producto: ConsolaSuperNSEntertainmentSystemClassic21JuegosPrecio: 
 $59.990
-Nombre producto: MarioKartLiveHomeCircuit-MarioSet.Precio: 
-$86.990
 Nombre producto: SillaGamerKroneReclinableErgonómicaUltraacolchada-BlancaPrecio: 
 $149.990
 Nombre producto: MonitorACERGamerCurvo23'6Freesync+144hz+4Ms+dp+HdmiPrecio: 
 $249.990
-Nombre producto: PSPSony3006DesbloqueadoComJogos64GB500JuegosPrecio: 
-$119.990
-Nombre producto: SillaGamerLedSpectreKtanaNegroconCojínErgoPrecio: 
-$159.990
+Nombre producto: MonitorGamer27"VX2757-MHDFullHD,2msGTG,AMDFreeSync,VGA,HDMI,DPViewsonicPrecio: 
+$209.990
 Nombre producto: ASUSROGKunai3mandoparaASUSROG5GooglePlayGamepadPrecio: 
 $145.990
 Nombre producto: SillaGamerProfesionalDragsterGT500FuryRedPrecio: 
 $199.990
+Nombre producto: SonyPlayStation3PS3SuperSlim500GB17JuegosDigitalesModeloPrecio: 
+$199.990
+Nombre producto: SonyPlayStation4Ps4Slim500GBStandardcolorjetblackPrecio: 
+$335.990
+Nombre producto: DualshockGamingRemoteControllerConsoleJoystickforPlaystationGamepadforSonyPS4GameAccessoryPrecio: 
+$18.990
 Nombre producto: GenericoNSSwitchProControllercontrolinalambricoPlataPrecio: 
 $20.500
+Nombre producto: ConsolaMiniClassicEditionSNES21Precio: 
+$58.900
 Nombre producto: SillaGamerProfesionalConReposapiesYBaseDePolicarbonatoPrecio: 
 $115.990
+Nombre producto: SillaGamerLedSpectreKtanaNegroconCojínErgoPrecio: 
+$159.990
 Nombre producto: MonitorGamerCurvoMSIOptixG27C4W165Hz1MsMSIPrecio: 
 $299.990
 Nombre producto: MonitorGamerMsiOptixG271Precio: 
 $499.990
-Nombre producto: PCGAMERINTELCOREI310100F-8GBRAM-240GBSSD-GTX16504GB-SHADOWPrecio: 
-$1.099.000
+Nombre producto: COMPUTADORPCGAMERINTELCOREI310100F-8GBRAM-240GBSSD-GTX16504GBPrecio: 
+$907.000
 Nombre producto: SonyPlayStation3PS3SuperSlim1TB2Dualshock3Precio: 
 $227.990
-Nombre producto: AudífonosGamerOnikumaK9OrejadeGatoCancelaciónDeRuido-RosaPrecio: 
-$19.990
 Nombre producto: MONITORSAMSUNGLC27F390FHLXZSCURVOPrecio: 
 $239.990
-Nombre producto: AudifonosGamerONIKUMAK9MicrofonoOrejasdeGatoExtraíbles-NegroPrecio: 
-$24.990
-Nombre producto: MarioKartLiveHomeCircuit-LuigiSet.Precio: 
-$86.990
 Nombre producto: MonitorGameMSIOptixG241VCLed23,6"Precio: 
 $346.990
-Nombre producto: LGMonitorLed27pulgadas1920x108027MK400H-BPrecio: 
-$189.990
 Nombre producto: SillaGamerKroneReclinableErgonómicaUltraacolchada-RosadaPrecio: 
 $139.990
-Nombre producto: SillaGamerKroneReclinableErgonómicaUltraacolchada-CelestePrecio: 
-$149.990
-Nombre producto: AudífonosGamerHyperXCloudStingerPrecio: 
-$59.990
-Nombre producto: SonyPlayStation3PS3SuperSlim500GB17JuegosDigitalesModeloPrecio: 
-$199.990
+Nombre producto: AudífonosGamerOnikumaK9OrejadeGatoCancelaciónDeRuido-RosaPrecio: 
+$19.990
 Nombre producto: TecladoMouseGamerSetOnikumaCombinación2en1-RosaPrecio: 
 $29.990
-Nombre producto: Consolade400JuegosMiniRetroGame-RojoPrecio: 
-$10.990
 Nombre producto: ConsoladeNinNesClassicEdition(MiniNES)660juegosPrecio: 
 $18.900
 Nombre producto: RazerDeathAdderEssentialMouseparaJuegosEsencialparaDeathAdderPrecio: 
 $16.890
+Nombre producto: PREVENTATheLeyendofZeldaSkywardHDSwitchPrecio: 
+$46.990
 Nombre producto: TecladoBluetoothconconexiónmultidispositivoLogitechK380Precio: 
 $31.990
 Nombre producto: ControlInalámbricoparaPS4 Dualshock-BlancoPrecio: 
 $15.900
+Nombre producto: FundaEstucheKitdeAccesoriosNintendoSwitchProtectorPantallaPrecio: 
+$29.990
+Nombre producto: AudifonosGamerONIKUMAK9MicrofonoOrejasdeGatoExtraíbles-NegroPrecio: 
+$24.990
+Nombre producto: AudífonosGamersOnikumaK9RGBCancelaciónDeRuido-NergoPrecio: 
+$20.990
+Nombre producto: MarioKartLiveHomeCircuit-LuigiSet.Precio: 
+$86.990
+Nombre producto: AudifonosHyperxCloudAlphaProGamingParaPcPs4XboxOnePrecio: 
+$59.990
+Nombre producto: RazerViperMiniMouseambidiestroparaJuegos8500DPIPAW335961gRGBPrecio: 
+$20.990
+Nombre producto: AudífonosGamerOnikumaK10-RGBPrecio: 
+$49.990

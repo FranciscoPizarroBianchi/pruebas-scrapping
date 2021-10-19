@@ -1,0 +1,47 @@
+1634343202514	geckodriver	INFO	Listening on 127.0.0.1:55010
+1634343205568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55011" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileN57b6I"
+1634343205950	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileN57b6I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55011/devtools/browser/6d36ac05-1498-48a5-b0db-184b835658b0
+1634343208625	Marionette	INFO	Listening on port 55016
+1634343208754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634343292502	Marionette	INFO	Stopped listening on port 55016
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634343325870	geckodriver	INFO	Listening on 127.0.0.1:58141
+1634343328940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "58142" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile7ghUeK"
+1634343329299	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile7ghUeK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58142/devtools/browser/00795bd4-d551-4fdb-9987-d151d333b28c
+1634343331763	Marionette	INFO	Listening on port 58147
+1634343332110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634343341521	Marionette	INFO	Stopped listening on port 58147
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634343447376	geckodriver	INFO	Listening on 127.0.0.1:52273
+1634343450439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52274" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilegjiAyO"
+1634343450822	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilegjiAyO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52274/devtools/browser/5b16eb15-8415-4fd1-bc87-fe8cb5dd188a
+1634343453214	Marionette	INFO	Listening on port 52279
+1634343453589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634344471389	Marionette	INFO	Stopped listening on port 52279
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\frpiz\AppData\Local\Temp\rust_mozprofilegjiAyO\protections.sqlite
+1634344679109	geckodriver	INFO	Listening on 127.0.0.1:53678
+1634344682166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53679" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileC1L9LS"
+1634344682533	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileC1L9LS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53679/devtools/browser/870bdb25-18ba-4cf5-ab3e-f44224d3460c
+1634344684997	Marionette	INFO	Listening on port 53684
+1634344685342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634344971550	Marionette	INFO	Stopped listening on port 53684
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
