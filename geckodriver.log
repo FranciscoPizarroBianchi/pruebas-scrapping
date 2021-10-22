@@ -45,3 +45,925 @@ DevTools listening on ws://localhost:53679/devtools/browser/870bdb25-18ba-4cf5-a
 1634344685342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1634344971550	Marionette	INFO	Stopped listening on port 53684
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634650148929	geckodriver	INFO	Listening on 127.0.0.1:64903
+1634650151970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64904" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile54aS0N"
+1634650152400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile54aS0N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64904/devtools/browser/4e1a8ac0-fab8-44ea-9eb6-06b8ad6046a3
+1634650155027	Marionette	INFO	Listening on port 64909
+1634650155153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634650220483	Marionette	INFO	Stopped listening on port 64909
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\frpiz\AppData\Local\Temp\rust_mozprofile54aS0N\protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634652515778	geckodriver	INFO	Listening on 127.0.0.1:56690
+1634652518837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "56691" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofiler1i74C"
+1634652519223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofiler1i74C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56691/devtools/browser/d063536b-e0af-497c-a878-25ff45a0d852
+1634652522068	Marionette	INFO	Listening on port 56698
+1634652522506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634652581780	Marionette	INFO	Stopped listening on port 56698
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\frpiz\AppData\Local\Temp\rust_mozprofiler1i74C\protections.sqlite
+1634652584093	geckodriver	INFO	Listening on 127.0.0.1:49522
+1634652587163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "49523" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile51BUOh"
+1634652587503	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile51BUOh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49523/devtools/browser/d21edf2c-7fb1-4e02-a07d-6e5887ad512a
+1634652589941	Marionette	INFO	Listening on port 60009
+1634652590341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634652679102	Marionette	INFO	Stopped listening on port 60009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\frpiz\AppData\Local\Temp\rust_mozprofile51BUOh\protections.sqlite
+1634652732997	geckodriver	INFO	Listening on 127.0.0.1:60447
+1634652736050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "60448" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileeRJcsH"
+1634652736349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileeRJcsH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60448/devtools/browser/7dd3d8aa-b624-4a88-b254-f8044815934a
+1634652738576	Marionette	INFO	Listening on port 60454
+1634652738699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634652756813	Marionette	INFO	Stopped listening on port 60454
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634652986782	geckodriver	INFO	Listening on 127.0.0.1:58908
+1634652989838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "58909" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilez5kLFt"
+1634652990148	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilez5kLFt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58909/devtools/browser/6c0c84e8-17ab-4ecf-bec6-98597013f907
+1634652992600	Marionette	INFO	Listening on port 58914
+1634652993013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 383: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 383: unreachable code after return statement
+1634653044444	Marionette	INFO	Stopped listening on port 58914
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\frpiz\AppData\Local\Temp\rust_mozprofilez5kLFt\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634653052789	geckodriver	INFO	Listening on 127.0.0.1:55571
+1634653055847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55572" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileHr76jK"
+1634653056488	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileHr76jK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55572/devtools/browser/8450381b-8cd4-4d3d-b2c9-731013e1f8b1
+1634653059599	Marionette	INFO	Listening on port 55577
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1634653060035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634653066899	Marionette	INFO	Stopped listening on port 55577
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\frpiz\AppData\Local\Temp\rust_mozprofileHr76jK\protections.sqlite
+1634653225058	geckodriver	INFO	Listening on 127.0.0.1:58570
+1634653228123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "58571" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileRCkyyb"
+1634653228422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileRCkyyb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58571/devtools/browser/971ff586-0063-4ed0-956d-e2aab3e71536
+1634653230799	Marionette	INFO	Listening on port 58576
+1634653231289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634653239579	Marionette	INFO	Stopped listening on port 58576
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\frpiz\AppData\Local\Temp\rust_mozprofileRCkyyb\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634653273953	geckodriver	INFO	Listening on 127.0.0.1:52127
+1634653276983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52128" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofiletQVm9a"
+1634653277297	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofiletQVm9a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52128/devtools/browser/1aec176c-7ddb-40c8-88d4-b3c96df17292
+1634653279632	Marionette	INFO	Listening on port 52133
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1634653280151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634653505823	Marionette	INFO	Stopped listening on port 52133
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+nette" "--remote-debugging-port" "50138" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile1yT9k3"
+1634653391526	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile1yT9k3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50138/devtools/browser/88d25f2a-c3e1-46f8-8dbc-90a5380563b5
+1634653393953	Marionette	INFO	Listening on port 50143
+1634653394306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+1634653506653	Marionette	INFO	Stopped listening on port 50143
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634653534111	geckodriver	INFO	Listening on 127.0.0.1:54718
+1634653537170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54719" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile0Xlsiw"
+1634653537481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile0Xlsiw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54719/devtools/browser/7a447f2c-e28c-4e93-86f9-ab5e4ad8d70e
+1634653539723	Marionette	INFO	Listening on port 54724
+1634653539824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+1634653557915	Marionette	INFO	Stopped listening on port 54724
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634653700339	geckodriver	INFO	Listening on 127.0.0.1:64458
+1634653703387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64459" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilevVNnah"
+1634653703728	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilevVNnah\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64459/devtools/browser/55e0569a-85f0-4c4c-8b3c-cd7fe00ea0a5
+1634653706102	Marionette	INFO	Listening on port 64464
+1634653706572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634653727796	Marionette	INFO	Stopped listening on port 64464
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634653730080	geckodriver	INFO	Listening on 127.0.0.1:64535
+1634653733138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64536" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileIcadN0"
+1634653733472	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileIcadN0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64536/devtools/browser/3c8247d4-8c19-44e7-a950-f9ab3b552f2b
+1634653735872	Marionette	INFO	Listening on port 64541
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1634653736305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634653753675	Marionette	INFO	Stopped listening on port 64541
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634653928353	geckodriver	INFO	Listening on 127.0.0.1:61517
+1634653931421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61518" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilexpSfUb"
+1634653931759	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilexpSfUb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61518/devtools/browser/e31e3329-363d-4466-8721-76dfc4b10b28
+1634653934378	Marionette	INFO	Listening on port 61523
+1634653934571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 383: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 383: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://assets.jumbo.cl/56e03f3cf62b5cc019ed-styles.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i without a browsingContextID set
+1634654259142	Marionette	INFO	Stopped listening on port 61523
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mp\\rust_mozprofilev2dkSu"
+1634654131272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilev2dkSu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63287/devtools/browser/41ca75b2-9620-4e07-b846-da99a7dab167
+1634654133944	Marionette	INFO	Listening on port 63294
+1634654134103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634654135517	Marionette	INFO	Stopped listening on port 63294
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2110:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2103: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634654146071	geckodriver	INFO	Listening on 127.0.0.1:63337
+1634654149115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "63338" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile8sfVNw"
+1634654149448	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile8sfVNw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63338/devtools/browser/91c3980d-39e6-4a33-9002-3e841fcff95e
+1634654152068	Marionette	INFO	Listening on port 63343
+1634654152300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634654181086	Marionette	INFO	Stopped listening on port 63343
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\frpiz\AppData\Local\Temp\rust_mozprofile8sfVNw\protections.sqlite
+1634654183393	geckodriver	INFO	Listening on 127.0.0.1:49186
+1634654186442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "49187" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilekIKwX6"
+1634654186797	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilekIKwX6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49187/devtools/browser/4a1e5e4f-8d77-4052-b52e-d4c1e6bb6dbf
+1634654189262	Marionette	INFO	Listening on port 49192
+1634654189604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634654256822	Marionette	INFO	Stopped listening on port 49192
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\frpiz\AppData\Local\Temp\rust_mozprofilekIKwX6\protections.sqlite
+1634655201173	geckodriver	INFO	Listening on 127.0.0.1:54527
+1634655204238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54528" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileScCi1h"
+1634655204580	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileScCi1h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54528/devtools/browser/8ca9e584-cb16-4bd3-9737-6c1e5bfca3f2
+1634655207099	Marionette	INFO	Listening on port 54533
+1634655207393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+console.error: services.settings: 
+  security-state/cert-revocations Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  security-state/intermediates Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+1634656851704	Marionette	INFO	Stopped listening on port 54533
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\frpiz\AppData\Local\Temp\rust_mozprofileScCi1h\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/url-classifier-skip-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/doh-config Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  security-state/cert-revocations Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  security-state/intermediates Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+1634656852668	Marionette	INFO	Stopped listening on port 54664
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\frpiz\AppData\Local\Temp\rust_mozprofile7Gt0cT\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+3: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1634656223544	geckodriver	INFO	Listening on 127.0.0.1:61403
+1634656226599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61404" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilemZX8Kk"
+1634656226901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilemZX8Kk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61404/devtools/browser/9ba648d3-f872-43e3-b40b-a90467172b32
+1634656229548	Marionette	INFO	Listening on port 61409
+1634656229774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634656450947	Marionette	INFO	Stopped listening on port 61409
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+nette" "--remote-debugging-port" "58871" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileT4IBg1"
+1634656264698	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileT4IBg1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58871/devtools/browser/d8648ab7-bccf-4f73-9345-bc969a75f87d
+1634656267235	Marionette	INFO	Listening on port 58876
+1634656267518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634656277501	Marionette	INFO	Stopped listening on port 58876
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634656429307	geckodriver	INFO	Listening on 127.0.0.1:61226
+1634656432367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61227" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile7LgSwS"
+1634656432670	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile7LgSwS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61227/devtools/browser/5499f30b-95c1-458d-b8c4-cd9fb8cbc0ad
+1634656435109	Marionette	INFO	Listening on port 61233
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1634656435528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634656450419	Marionette	INFO	Stopped listening on port 61233
+Marionette threw an error: TypeError: can't access property "getActor", browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634656453280	geckodriver	INFO	Listening on 127.0.0.1:61304
+1634656456322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61305" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileXuTewL"
+1634656456624	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileXuTewL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61305/devtools/browser/dc27332b-8600-4a32-8841-a6a1d5b8f62c
+1634656459057	Marionette	INFO	Listening on port 61310
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1634656459504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634656551173	Marionette	INFO	Stopped listening on port 61310
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634656553485	geckodriver	INFO	Listening on 127.0.0.1:61287
+1634656556526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61288" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile04zH4w"
+1634656556873	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile04zH4w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61288/devtools/browser/3b475bad-4c8f-40ad-9eeb-9e68fbbf9857
+1634656559584	Marionette	INFO	Listening on port 61293
+1634656559699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://assets.jumbo.cl/56e03f3cf62b5cc019ed-styles.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i without a browsingContextID set
+1634656767181	Marionette	INFO	Stopped listening on port 61293
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+FnFg"
+1634656697527	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileFMFnFg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49834/devtools/browser/68aa6104-f4ae-437b-8cb6-7708e49fbe0a
+1634656700101	Marionette	INFO	Listening on port 49841
+1634656700362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634656727596	Marionette	INFO	Stopped listening on port 49841
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634656732697	geckodriver	INFO	Listening on 127.0.0.1:57394
+1634656735749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "57395" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile8M5Fn9"
+1634656736055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile8M5Fn9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57395/devtools/browser/84aa0ad2-edda-4c34-a8db-dde1c8942f9c
+1634656738376	Marionette	INFO	Listening on port 57400
+1634656738407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+1634656749891	Marionette	INFO	Stopped listening on port 57400
+Marionette threw an error: TypeError: can't access property "getActor", browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634656752331	geckodriver	INFO	Listening on 127.0.0.1:57465
+1634656755372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "57466" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileq8wEca"
+1634656755851	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileq8wEca\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57466/devtools/browser/a1c4d10c-617f-4290-bc8f-395687e94676
+1634656760558	Marionette	INFO	Listening on port 57471
+1634656760669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+1634656766629	Marionette	INFO	Stopped listening on port 57471
+Marionette threw an error: TypeError: can't access property "getActor", browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: can't access property "provider", this.tablesData[table] is undefined
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634656794979	geckodriver	INFO	Listening on 127.0.0.1:49369
+1634656798018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "49370" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileLcBe9J"
+1634656798340	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileLcBe9J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49370/devtools/browser/c33aea4a-09d5-4c18-8365-1fcb9eeba2fb
+1634656800616	Marionette	INFO	Listening on port 49375
+1634656800680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 383: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 383: unreachable code after return statement
+1634656853849	Marionette	INFO	Stopped listening on port 49375
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634656880189	Marionette	INFO	Stopped listening on port 61044
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\frpiz\AppData\Local\Temp\rust_mozprofile10EhTa\protections.sqlite
+el closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\frpiz\AppData\Local\Temp\rust_mozprofileLcBe9J\protections.sqlite
+1634656889487	geckodriver	INFO	Listening on 127.0.0.1:61177
+1634656892563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61178" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilexMp9SL"
+1634656892900	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilexMp9SL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61178/devtools/browser/290a13f2-c8d3-43e6-94f2-ba5b0ea17073
+1634656895690	Marionette	INFO	Listening on port 61183
+1634656895756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634656909149	Marionette	INFO	Stopped listening on port 61183
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634657004003	geckodriver	INFO	Listening on 127.0.0.1:52681
+1634657007070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52682" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilek4LEUg"
+1634657007406	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilek4LEUg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52682/devtools/browser/5e902162-f4f6-4279-909e-305d72c8f598
+1634657009935	Marionette	INFO	Listening on port 52687
+1634657010230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 381: unreachable code after return statement
+1634657023415	Marionette	INFO	Stopped listening on port 52687
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
