@@ -967,3 +967,710 @@ JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-5WWDCL8&gtm_a
 1634657023415	Marionette	INFO	Stopped listening on port 52687
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634926658552	geckodriver	INFO	Listening on 127.0.0.1:61786
+1634926661631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61787" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilett9Qgs"
+1634926662028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilett9Qgs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61787/devtools/browser/8db088b9-30c3-4cf2-a836-643be8e88f40
+1634926664646	Marionette	INFO	Listening on port 61795
+1634926664820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1634926810070	Marionette	INFO	Stopped listening on port 61795
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+ionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileQYlu8L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64295/devtools/browser/a692fd1a-354c-4f52-9bab-cd05a6a0f5d6
+1634926740876	Marionette	INFO	Listening on port 64301
+1634926741201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1634926810786	Marionette	INFO	Stopped listening on port 64301
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1634926813139	geckodriver	INFO	Listening on 127.0.0.1:61540
+1634926816171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61541" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilem7f57H"
+1634926816477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilem7f57H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61541/devtools/browser/f7d5cbeb-a690-49e5-a86a-66db93f6adcd
+1634926818877	Marionette	INFO	Listening on port 61546
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1634926819328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1634926887695	Marionette	INFO	Stopped listening on port 61546
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590005,name=PHttpChannel::Msg_Redirect2Verify) Channel closing: too late to send/recv, messages will be lost
+
+a\\Local\\Temp\\rust_mozprofilengHkUK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56580/devtools/browser/107b3774-37e1-4891-8f94-f220e0727425
+1634926860491	Marionette	INFO	Listening on port 56585
+1634926860801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1634926886877	Marionette	INFO	Stopped listening on port 56585
+1634926889875	geckodriver	INFO	Listening on 127.0.0.1:56690
+1634926892933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "56691" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileW9wUg0"
+1634926893264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileW9wUg0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56691/devtools/browser/12152f8c-b8bf-4413-a2ba-e183ca764bf8
+1634926896199	Marionette	INFO	Listening on port 55523
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1634926896621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1634926937517	Marionette	INFO	Stopped listening on port 55523
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634927140361	geckodriver	INFO	Listening on 127.0.0.1:62939
+1634927143426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62940" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilenpEux8"
+1634927143772	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilenpEux8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62940/devtools/browser/1785b890-784a-409e-9ac7-b07d4ec059d9
+1634927146259	Marionette	INFO	Listening on port 62946
+1634927146601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1634927373284	Marionette	INFO	Stopped listening on port 62946
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+emp\\rust_mozprofileZBPVxz"
+1634927315501	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileZBPVxz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54228/devtools/browser/c4224b4f-f8c0-45c6-929d-1f29d06db73e
+1634927318107	Marionette	INFO	Listening on port 54240
+1634927318349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1634927373998	Marionette	INFO	Stopped listening on port 54240
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1634927761055	geckodriver	INFO	Listening on 127.0.0.1:52727
+1634927764124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52728" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilewS60Rf"
+1634927764471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilewS60Rf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52728/devtools/browser/0966705c-3b27-441a-89e6-477e73d8057a
+1634927766937	Marionette	INFO	Listening on port 52733
+1634927767290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: https://unimarc.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.store-components@3.155.1,ProductName,3,ProductPrice,BuyButton&files=vtex.store@2.120.1,common,SearchContext,0,SearchWrapper,StoreWrapper&files=vtex.flex-layout@0.19.0,common,0,FlexLayout,Col&files=unimarc.unimarc-store@0.33.30,common,0,2,3,8,10,37,1&async=2&workspace=master, line 30: Error: Request failed with status code 500
+console.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/doh-config Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  security-state/cert-revocations Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: "Exception when calling onAvailable handler" "Connection closed, pending request to server0.conn1.target-configuration3, type updateConfiguration failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateConfiguration@resource://devtools/shared/commands/target-configuration/target-configuration-command.js:51:48\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8018:36\nWindowIsClosing@chrome://browser/content/browser.js:8047:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3009:22\noncommand@chrome://browser/content/browser.xhtml:1:24\n" (new Error("Connection closed, pending request to server0.conn1.target-configuration3, type updateConfiguration failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateConfiguration@resource://devtools/shared/commands/target-configuration/target-configuration-command.js:51:48\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8018:36\nWindowIsClosing@chrome://browser/content/browser.js:8047:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3009:22\noncommand@chrome://browser/content/browser.xhtml:1:24\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error while calling actor 'target-configuration's method 'updateConfiguration'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 90))
+console.error: (new Error("Can not send request 'watchResources' because front 'watcher' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1634929349458	Marionette	INFO	Stopped listening on port 52733
+JavaScript error: https://www.unimarc.cl/desayuno-y-dulces/cereales, line 271: NS_ERROR_NOT_INITIALIZED: 
+frpiz\\AppData\\Local\\Temp\\rust_mozprofileVDQzBx"
+1634928236985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileVDQzBx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56728/devtools/browser/e1ee8275-6c19-4832-954d-2ab2fc0ae911
+1634928239746	Marionette	INFO	Listening on port 56733
+1634928239800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1634928285486	Marionette	INFO	Stopped listening on port 56733
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634928381924	geckodriver	INFO	Listening on 127.0.0.1:52248
+1634928384985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52249" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofiletenivW"
+1634928385334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofiletenivW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52249/devtools/browser/22992053-dd5f-4886-aa77-21af6c115415
+1634928387945	Marionette	INFO	Listening on port 52254
+1634928388178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1634928526328	Marionette	INFO	Stopped listening on port 52254
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+nette" "--remote-debugging-port" "56766" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile6cfFCb"
+1634928525682	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile6cfFCb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56766/devtools/browser/938ec13b-daef-44ca-8f73-8ab08effe6d6
+1634928528897	Marionette	INFO	Listening on port 56772
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1634928529386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  security-state/cert-revocations Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1634929351161	Marionette	INFO	Stopped listening on port 56772
+1634929468132	geckodriver	INFO	Listening on 127.0.0.1:58639
+1634929471189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "58640" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileJvR3qq"
+1634929471604	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileJvR3qq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58640/devtools/browser/86bb4e17-5e81-492d-a2d0-ff3b915409b2
+1634929473924	Marionette	INFO	Listening on port 58645
+1634929474349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1634929537454	Marionette	INFO	Stopped listening on port 58645
+1634929640402	geckodriver	INFO	Listening on 127.0.0.1:58308
+1634929643439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "58309" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileP28w6c"
+1634929643807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileP28w6c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58309/devtools/browser/bd707ed2-c76b-4ec4-89a5-7c3ddba7931b
+1634929646295	Marionette	INFO	Listening on port 58315
+1634929646610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: https://unimarc.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.132.3/public/react/common.min.js?async=2&workspace=master, line 2: TypeError: can't access property "original", a is null
+1634929752793	Marionette	INFO	Stopped listening on port 58315
+console.error: "stylesheets: fetch failed for https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrconsole.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/url-classifier-skip-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/normandy-recipes-capabilities Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/doh-config Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  security-state/cert-revocations Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1634930467506	Marionette	INFO	Stopped listening on port 55161
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065."
+console.error: (new Error("Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065."
+console.error: (new Error("Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065."
+console.error: (new Error("Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065."
+console.error: (new Error("Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065."
+console.error: (new Error("Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634929935817	geckodriver	INFO	Listening on 127.0.0.1:64276
+1634929938878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64277" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileIVB831"
+1634929939223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileIVB831\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64277/devtools/browser/c930ad77-fafa-41e0-9e1e-2f3e278d3fdc
+1634929941844	Marionette	INFO	Listening on port 64282
+1634929942056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1634930012681	Marionette	INFO	Stopped listening on port 64282
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1634930014428	geckodriver	INFO	Listening on 127.0.0.1:63692
+1634930017470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "63693" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilexJ0MR4"
+1634930017821	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilexJ0MR4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63693/devtools/browser/b0a5418f-13f5-4c2b-b2c7-801d0a91cda8
+1634930020264	Marionette	INFO	Listening on port 63702
+1634930020639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: https://unimarc.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.132.3/public/react/common.min.js?async=2&workspace=master, line 2: TypeError: can't access property "original", a is null
+1634930173833	Marionette	INFO	Stopped listening on port 63702
+JavaScript error: , line 0: NetworkError: AutoCancel
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1634930473197	geckodriver	INFO	Listening on 127.0.0.1:60187
+1634930476238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "60188" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileR3dkzG"
+1634930476581	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileR3dkzG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60188/devtools/browser/5a82cdfe-2310-4c04-8999-b6543515327a
+1634930479110	Marionette	INFO	Listening on port 55007
+1634930479415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-core.prod.js, line 1: Error: The open request was blocked and timed out
+JavaScript error: https://unimarc.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=unimarc.unimarc-store@0.33.30,6,13,Navbar,21,15,17,32,UnimarcStoreWrapper,GridContext,5,ListContext,SessionContext,4,7,11,14,27,35,Shelf,30,12&async=2&workspace=master, line 6: TypeError: t.target.className.indexOf is not a function
+JavaScript error: https://unimarc.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=unimarc.unimarc-store@0.33.30,6,13,Navbar,21,15,17,32,UnimarcStoreWrapper,GridContext,5,ListContext,SessionContext,4,7,11,14,27,35,Shelf,30,12&async=2&workspace=master, line 6: TypeError: t.target.className.indexOf is not a function
+JavaScript error: https://unimarc.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=unimarc.unimarc-store@0.33.30,6,13,Navbar,21,15,17,32,UnimarcStoreWrapper,GridContext,5,ListContext,SessionContext,4,7,11,14,27,35,Shelf,30,12&async=2&workspace=master, line 6: TypeError: t.target.className.indexOf is not a function
+1634930613738	Marionette	INFO	Stopped listening on port 55007
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634932800676	geckodriver	INFO	Listening on 127.0.0.1:61242
+1634932803724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61243" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileE8tt6c"
+1634932804126	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileE8tt6c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61243/devtools/browser/34433e6b-cf3e-4889-a498-ece7db7b29b1
+1634932807577	Marionette	INFO	Listening on port 61248
+1634932807898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1634932883250	Marionette	INFO	Stopped listening on port 61248
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1634933159379	geckodriver	INFO	Listening on 127.0.0.1:56476
+1634933162428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "56477" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileQ1MK1X"
+1634933162812	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileQ1MK1X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56477/devtools/browser/1562275c-5d2d-4f7f-827f-32e160c0d0d2
+1634933165383	Marionette	INFO	Listening on port 56482
+1634933165612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2110:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1634933292648	Marionette	INFO	Stopped listening on port 56482
+console.error: "stylesheets: fetch failed for https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master, using system principal instead."
+console.error: "stylesheets: fetch failed for https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master, using system principal instead."
+console.error: "stylesheets: fetch failed for https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master, using system principal instead."
+console.error: "stylesheets: fetch failed for https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065."
+console.error: (new Error("Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065."
+console.error: (new Error("Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065."
+console.error: (new Error("Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065."
+console.error: (new Error("Failed to fetch https://unimarc.vtexassets.com/_v/public/assets/v1/bundle/css/asset.min.css?v=3&files=theme,unimarc.unimarc-store@0.33.30$style.common,unimarc.unimarc-store@0.33.30$style.small,unimarc.unimarc-store@0.33.30$style.notsmall,unimarc.unimarc-store@0.33.30$style.large,unimarc.unimarc-store@0.33.30$style.xlarge&files=fonts,989db2448f309bfdd99b513f37c84b8f5794d2b5&files=npm,animate.css@3.7.0/animate.min.css&files=react~vtex.render-runtime@8.132.3,common&files=react~vtex.styleguide@9.145.0,27,Progress,Spinner,0,1,Tooltip&files=react~unimarc.unimarc-store@0.33.30,Navbar,32,UnimarcStoreWrapper,11,14,35,12,NewAddButton&files=react~vtex.store-components@3.155.1,Container,4,SearchBar,DiscountBadge,3&files=react~unimarc.pixels-search@0.3.3,0&files=react~vtex.login@2.47.1,1&files=react~vtex.admin-pages@4.45.1,HighlightOverlay&files=react~vtex.search@1.5.0,Autocomplete&files=react~vtex.flex-layout@0.19.0,0&files=react~vtex.rich-text@0.15.0,index&files=react~vtex.slider@0.8.3,0&files=react~vtex.product-summary@2.77.1,ProductSummaryImage,ProductSummaryPrice,ProductSummaryBuyButton&files=overrides,unimarc.unimarc-store@0.33.30$overrides,vtex.product-list@0.33.1$overrides,vtex.minicart@2.62.0$overrides&workspace=master. Code 2147746065.", "resource://devtools/shared/DevToolsUtils.js", 556))
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634933332290	geckodriver	INFO	Listening on 127.0.0.1:65402
+1634933335342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "65403" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilesm9gnX"
+1634933335647	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilesm9gnX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65403/devtools/browser/130475a5-fe43-4909-8693-ba095bdf4127
+1634933338001	Marionette	INFO	Listening on port 65408
+1634933338506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2110:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1634933401093	Marionette	INFO	Stopped listening on port 65408
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634933536925	geckodriver	INFO	Listening on 127.0.0.1:62960
+1634933539986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62961" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilexMU0pd"
+1634933540349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilexMU0pd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62961/devtools/browser/7030870f-7300-469e-922f-5432b0420df4
+1634933543052	Marionette	INFO	Listening on port 62966
+1634933543174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1634933619045	Marionette	INFO	Stopped listening on port 62966
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590005,name=PHttpChannel::Msg_Redirect2Verify) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
