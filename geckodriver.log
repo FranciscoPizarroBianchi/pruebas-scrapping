@@ -1677,3 +1677,494 @@ JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line
 1634939010458	geckodriver	INFO	Listening on 127.0.0.1:52351
 1634939116933	geckodriver	INFO	Listening on 127.0.0.1:52431
 1634939132216	geckodriver	INFO	Listening on 127.0.0.1:52443
+1635011842169	geckodriver	INFO	Listening on 127.0.0.1:56505
+1635011845216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "56506" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilecd4XyK"
+1635011845578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilecd4XyK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56506/devtools/browser/a0007ea2-f4f2-45e3-96a1-a94a6341a80b
+1635011848397	Marionette	INFO	Listening on port 56511
+1635011848902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+console.error: (new TypeError("can't access property \"treeChildren\", parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: can't access property "treeChildren", parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access property \"rawNode\", node is null"
+console.error: (new TypeError("can't access property \"rawNode\", node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): can't access property \"rawNode\", node is null from: server0.conn0.windowGlobal2147483661/pagestyle28 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access property \"rawNode\", node is null"
+console.error: (new TypeError("can't access property \"rawNode\", node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access property \"rawNode\", node is null"
+console.error: (new TypeError("can't access property \"rawNode\", node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access property \"rawNode\", node is null"
+console.error: (new TypeError("can't access property \"rawNode\", node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access property \"rawNode\", node is null"
+console.error: (new TypeError("can't access property \"rawNode\", node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access property \"rawNode\", node is null"
+console.error: (new TypeError("can't access property \"rawNode\", node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access property \"rawNode\", node is null"
+console.error: (new TypeError("can't access property \"rawNode\", node is null", "resource://devtools/server/actors/page-style.js", 570))
+JavaScript error: resource://devtools/server/actors/page-style.js, line 570: TypeError: can't access property "rawNode", node is null
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access property \"rawNode\", node is null"
+console.error: (new TypeError("can't access property \"rawNode\", node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access property \"rawNode\", node is null"
+console.error: (new TypeError("can't access property \"rawNode\", node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): can't access property \"rawNode\", node is null from: server0.conn0.windowGlobal2147483661/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access property \"rawNode\", node is null"
+console.error: (new TypeError("can't access property \"rawNode\", node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): can't access property \"rawNode\", node is null from: server0.conn0.windowGlobal2147483661/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): can't access property \"rawNode\", node is null from: server0.conn0.windowGlobal2147483661/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): can't access property \"rawNode\", node is null from: server0.conn0.windowGlobal2147483661/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): can't access property \"rawNode\", node is null from: server0.conn0.windowGlobal2147483661/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): can't access property \"rawNode\", node is null from: server0.conn0.windowGlobal2147483661/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): can't access property \"rawNode\", node is null from: server0.conn0.windowGlobal2147483661/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): can't access property \"rawNode\", node is null from: server0.conn0.windowGlobal2147483661/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): can't access property \"rawNode\", node is null from: server0.conn0.windowGlobal2147483661/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: https://unimarc.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.132.3/public/react/common.min.js?async=2&workspace=master, line 2: TypeError: can't access property "original", a is null
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/normandy-recipes-capabilities Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/url-classifier-skip-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/doh-config Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  main/tippytop Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635012393023	Marionette	INFO	Stopped listening on port 56511
+5012389847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "58188" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileBE85EW"
+1635012390207	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileBE85EW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58188/devtools/browser/a5209681-596f-4dea-94a1-efe68d486ebb
+1635012393355	Marionette	INFO	Listening on port 58193
+1635012393560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1635012411892	Marionette	INFO	Stopped listening on port 58193
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1635012428100	geckodriver	INFO	Listening on 127.0.0.1:58308
+1635012431156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "58309" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileterlW4"
+1635012431628	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileterlW4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58309/devtools/browser/0f7379e6-d373-4f8b-8bd8-a76f2c72987e
+1635012434643	Marionette	INFO	Listening on port 58314
+1635012434819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1635012455754	Marionette	INFO	Stopped listening on port 58314
+1635013393436	geckodriver	INFO	Listening on 127.0.0.1:54565
+1635013396475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54566" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileaa1BoE"
+1635013396882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileaa1BoE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54566/devtools/browser/6ac85cee-9111-42d7-bca3-30a4c283e455
+1635013399770	Marionette	INFO	Listening on port 54573
+1635013400137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1635013447533	Marionette	INFO	Stopped listening on port 54573
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1635013464499	geckodriver	INFO	Listening on 127.0.0.1:62039
+1635013467559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62040" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileDk3bVQ"
+1635013467933	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileDk3bVQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62040/devtools/browser/17842e99-98a9-4ef6-9065-fceac1e3e13b
+1635013470659	Marionette	INFO	Listening on port 62047
+1635013470756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1635015366450	Marionette	INFO	Stopped listening on port 62047
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635015521033	geckodriver	INFO	Listening on 127.0.0.1:62100
+1635015524060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62101" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilePEqdFX"
+1635015524470	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilePEqdFX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62101/devtools/browser/3882ce56-8638-428e-a52c-c27e108a0505
+1635015527336	Marionette	INFO	Listening on port 62106
+1635015527778	Marionette	INFO	Stopped listening on port 62106
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1635015531739	geckodriver	INFO	Listening on 127.0.0.1:62130
+1635015534765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62131" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofiletmsrqS"
+1635015535064	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofiletmsrqS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62131/devtools/browser/4b53f5cc-5da0-48c6-ab4c-a724d8db9373
+1635015537401	Marionette	INFO	Listening on port 62136
+1635015537427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1635015944234	Marionette	INFO	Stopped listening on port 62136
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5416, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1635016866726	geckodriver	INFO	Listening on 127.0.0.1:53952
+1635016869782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53953" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileIiGG1L"
+1635016870179	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileIiGG1L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53953/devtools/browser/a259ebb3-4ece-4189-b35d-4a07c3a64957
+1635016872884	Marionette	INFO	Listening on port 53958
+1635016872969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1635016913381	Marionette	INFO	Stopped listening on port 53958
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1635016928157	geckodriver	INFO	Listening on 127.0.0.1:53887
+1635016931206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53888" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileI1f0oS"
+1635016931544	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileI1f0oS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53888/devtools/browser/17e45c6e-2ab9-4452-aa8f-e21d0c45e97b
+1635016934059	Marionette	INFO	Listening on port 53893
+1635016934375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-core.prod.js, line 1: Error: The open request was blocked and timed out
+1635017010917	Marionette	INFO	Stopped listening on port 53893
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635017013520	geckodriver	INFO	Listening on 127.0.0.1:60506
+1635017016567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "60507" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofiles0lmpc"
+1635017016914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofiles0lmpc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60507/devtools/browser/84b332cc-5ebd-4a6c-afa6-a9e5b29d846f
+1635017019825	Marionette	INFO	Listening on port 60512
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1635017020237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1635017197382	Marionette	INFO	Stopped listening on port 60512
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635017200017	geckodriver	INFO	Listening on 127.0.0.1:64278
+1635017203074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64279" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileli7wmj"
+1635017203428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileli7wmj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64279/devtools/browser/de403307-7bf9-4f35-b250-af94a963d62f
+1635017205964	Marionette	INFO	Listening on port 64284
+1635017206262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1635017225516	Marionette	INFO	Stopped listening on port 64284
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635017241835	geckodriver	INFO	Listening on 127.0.0.1:64389
+1635017244870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64390" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilelaphmP"
+1635017245221	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofilelaphmP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64390/devtools/browser/ca6fc364-a55b-43af-8f97-b24da28b8522
+1635017247674	Marionette	INFO	Listening on port 64396
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1635017248076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: https://unimarc.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.132.3/public/react/common.min.js?async=2&workspace=master, line 2: TypeError: can't access property "original", a is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1635017697134	Marionette	INFO	Stopped listening on port 64396
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635017832853	geckodriver	INFO	Listening on 127.0.0.1:53566
+1635017835899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53567" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileqAO9tq"
+1635017836197	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileqAO9tq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53567/devtools/browser/f0a85ece-81a6-4ceb-8672-1fa4f8236a5f
+1635017838687	Marionette	INFO	Listening on port 53572
+1635017839065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1635017869482	Marionette	INFO	Stopped listening on port 53572
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635018216084	geckodriver	INFO	Listening on 127.0.0.1:57005
+1635018219130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "57006" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileIxvovW"
+1635018219479	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofileIxvovW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57006/devtools/browser/180eb013-42c0-4ad7-ba7f-84d6939145f8
+1635018221776	Marionette	INFO	Listening on port 65111
+1635018221803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+1635018242611	Marionette	INFO	Stopped listening on port 65111
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635018306061	geckodriver	INFO	Listening on 127.0.0.1:57043
+1635018309139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "57044" "-no-remote" "-profile" "C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile3TqBkk"
+1635018309456	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\frpiz\\AppData\\Local\\Temp\\rust_mozprofile3TqBkk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57044/devtools/browser/a70f6469-3450-4c8c-8499-0c5fba162d80
+1635018312243	Marionette	INFO	Listening on port 57068
+1635018312322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TSJPRBR, line 326: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1635018748067	Marionette	INFO	Stopped listening on port 57068
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635093128894	geckodriver	INFO	Listening on 127.0.0.1:55679
