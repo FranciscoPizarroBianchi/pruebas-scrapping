@@ -4,6 +4,11 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException,TimeoutException
+import sqlite3
+
+conn = sqlite3.connect('lunch.db')
+c = conn.cursor()
+
 
 driver = webdriver.Firefox()     #Define el navegador a utilizar
 driver.maximize_window()        #Maximizar ventana
