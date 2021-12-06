@@ -4,19 +4,16 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException,TimeoutException
-import sqlite3
-
-conn = sqlite3.connect('lunch.db')
-c = conn.cursor()
 
 
-driver = webdriver.Firefox()     #Define el navegador a utilizar
+driver = webdriver.Safari()     #Define el navegador a utilizar
 driver.maximize_window()        #Maximizar ventana
 
-driver.get('https://www.jumbo.cl/desayuno-y-dulces')
+driver.get('https://www.jumbo.cl/mi-bebe')
 wait = WebDriverWait(driver, 10)
 driver.execute_script("window.scrollTo(0,document.body.scrollHeight)") #Scrollear toda la pagina, para que termine de cargar
 wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME,'shelf-item')))
+super_category_name = driver.find_element(By.CLASS_NAME,'title-with-bar-text').text
 super_category = driver.find_element(By.CLASS_NAME,'category-aside-list')
 super_subcategorys = super_category.find_elements(By.CLASS_NAME,'catalog-aside-nav-item')
 super_subcategory_href = [super_subcategory.find_element(By.TAG_NAME,'a').get_attribute('href') for super_subcategory in super_subcategorys]
@@ -38,6 +35,7 @@ for super_url in super_subcategory_href:
             wait = WebDriverWait(driver, 10)
             driver.execute_script("window.scrollTo(0, 0);")
             wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME,'shelf-list')))
+            category_name = driver.find_element(By.CLASS_NAME,'title-with-bar-text').text
             products = driver.find_elements(By.CLASS_NAME,'shelf-item') #Buscar "tarjeta" de cada producto
             for product in products:
                 type_sale=""
@@ -67,7 +65,7 @@ for super_url in super_subcategory_href:
                         available = False
                     else:
                         available = True
-                print(f'\nNombre: {name}\nMarca: {brand}\nEnlace: {url_product[20:-1]}')   #Genera print con los datos extaidos
+                print(f'\nNombre: {name}\nMarca: {brand}\nCategoria: {category_name}\nSuper categoria: {super_category_name}\nEnlace: {url_product[20:-1]}')   #Genera print con los datos extaidos
                 if available:
                     if original_price != "":
                         print(f'Precio original: {original_price}')
